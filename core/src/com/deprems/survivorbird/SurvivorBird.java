@@ -72,6 +72,9 @@ public class SurvivorBird extends ApplicationAdapter {
 		enemyCircles2 = new Circle[numberOfEnemies];
 		enemyCircles3 = new Circle[numberOfEnemies];
 
+		//merhabalar
+		//GitHub denemesi
+
 		font = new BitmapFont();
 		font.setColor(Color.WHITE);
 		font.getData().setScale(4);
